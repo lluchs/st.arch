@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char font[] = "Source Code Pro:pixelsize=12";
+static char font[] = "Iosevka:pixelsize=14";
 static int borderpx = 2;
 
 /*
